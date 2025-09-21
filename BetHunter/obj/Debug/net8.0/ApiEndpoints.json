@@ -1,0 +1,34 @@
+[
+  {
+    "ContainingType": "SmsController",
+    "Method": "ConfirmSms",
+    "RelativePath": "api/Sms/confirm",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "BetHunterModel.ConfirmRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SmsController",
+    "Method": "SendSms",
+    "RelativePath": "api/Sms/send",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "BetHunterModel.SmsRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

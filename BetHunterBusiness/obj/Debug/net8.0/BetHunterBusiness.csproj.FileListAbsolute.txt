@@ -1,0 +1,17 @@
+C:\Users\Spide\source\repos\BetHunter\BetHunterBusiness\bin\Debug\net8.0\BetHunterBusiness.deps.json
+C:\Users\Spide\source\repos\BetHunter\BetHunterBusiness\bin\Debug\net8.0\BetHunterBusiness.dll
+C:\Users\Spide\source\repos\BetHunter\BetHunterBusiness\bin\Debug\net8.0\BetHunterBusiness.pdb
+C:\Users\Spide\source\repos\BetHunter\BetHunterBusiness\obj\Debug\net8.0\BetHunterBusiness.csproj.AssemblyReference.cache
+C:\Users\Spide\source\repos\BetHunter\BetHunterBusiness\obj\Debug\net8.0\BetHunterBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Spide\source\repos\BetHunter\BetHunterBusiness\obj\Debug\net8.0\BetHunterBusiness.AssemblyInfoInputs.cache
+C:\Users\Spide\source\repos\BetHunter\BetHunterBusiness\obj\Debug\net8.0\BetHunterBusiness.AssemblyInfo.cs
+C:\Users\Spide\source\repos\BetHunter\BetHunterBusiness\obj\Debug\net8.0\BetHunterBusiness.csproj.CoreCompileInputs.cache
+C:\Users\Spide\source\repos\BetHunter\BetHunterBusiness\obj\Debug\net8.0\BetHunterBusiness.dll
+C:\Users\Spide\source\repos\BetHunter\BetHunterBusiness\obj\Debug\net8.0\refint\BetHunterBusiness.dll
+C:\Users\Spide\source\repos\BetHunter\BetHunterBusiness\obj\Debug\net8.0\BetHunterBusiness.pdb
+C:\Users\Spide\source\repos\BetHunter\BetHunterBusiness\obj\Debug\net8.0\ref\BetHunterBusiness.dll
+C:\Users\Spide\source\repos\BetHunter\BetHunterBusiness\bin\Debug\net8.0\BetHunterBusiness.runtimeconfig.json
+C:\Users\Spide\source\repos\BetHunter\BetHunterBusiness\obj\Debug\net8.0\BetHunterBusiness.genruntimeconfig.cache
+C:\Users\Spide\source\repos\BetHunter\BetHunterBusiness\bin\Debug\net8.0\BetHunterModel.dll
+C:\Users\Spide\source\repos\BetHunter\BetHunterBusiness\bin\Debug\net8.0\BetHunterModel.pdb
+C:\Users\Spide\source\repos\BetHunter\BetHunterBusiness\obj\Debug\net8.0\BetHunte.29B3393D.Up2Date
