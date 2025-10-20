@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BetHunterData")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+333716e59b0299bdc9a51e06e14dc33dcd641ccc")]
 [assembly: System.Reflection.AssemblyProductAttribute("BetHunterData")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BetHunterData")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

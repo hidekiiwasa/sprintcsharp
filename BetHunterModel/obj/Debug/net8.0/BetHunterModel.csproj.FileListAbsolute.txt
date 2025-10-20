@@ -12,3 +12,4 @@ C:\Users\Spide\source\repos\BetHunter\BetHunterModel\obj\Debug\net8.0\BetHunterM
 C:\Users\Spide\source\repos\BetHunter\BetHunterModel\obj\Debug\net8.0\ref\BetHunterModel.dll
 C:\Users\Spide\source\repos\BetHunter\BetHunterModel\bin\Debug\net8.0\BetHunterModel.runtimeconfig.json
 C:\Users\Spide\source\repos\BetHunter\BetHunterModel\obj\Debug\net8.0\BetHunterModel.genruntimeconfig.cache
+C:\Users\Spide\source\repos\BetHunter\BetHunterModel\obj\Debug\net8.0\BetHunterModel.sourcelink.json

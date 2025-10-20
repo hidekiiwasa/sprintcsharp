@@ -3,36 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\Spide\\source\\repos\\BetHunter\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5CE03AE1-8EA4-479F-B5AC-31654100A3B2}|BetHunterData\\BetHunterData.csproj|c:\\users\\spide\\source\\repos\\bethunter\\bethunterdata\\migrations\\20250921211333_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5CE03AE1-8EA4-479F-B5AC-31654100A3B2}|BetHunterData\\BetHunterData.csproj|solutionrelative:bethunterdata\\migrations\\20250921211333_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B8363445-91CD-4A50-AE47-834D5DC54355}|BetHunterBusiness\\BetHunterBusiness.csproj|c:\\users\\spide\\source\\repos\\bethunter\\bethunterbusiness\\smsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8363445-91CD-4A50-AE47-834D5DC54355}|BetHunterBusiness\\BetHunterBusiness.csproj|solutionrelative:bethunterbusiness\\smsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{046BB291-C821-4A26-8242-67EEBFFF8A5F}|BetHunterModel\\BetHunterModel.csproj|c:\\users\\spide\\source\\repos\\bethunter\\bethuntermodel\\smsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{046BB291-C821-4A26-8242-67EEBFFF8A5F}|BetHunterModel\\BetHunterModel.csproj|solutionrelative:bethuntermodel\\smsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{949FA582-CEBE-4679-8515-920DE8CB92F1}|BetHunter\\BetHunter.csproj|c:\\users\\spide\\source\\repos\\bethunter\\bethunter\\controllers\\smscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{949FA582-CEBE-4679-8515-920DE8CB92F1}|BetHunter\\BetHunter.csproj|solutionrelative:bethunter\\controllers\\smscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{949FA582-CEBE-4679-8515-920DE8CB92F1}|BetHunter\\BetHunter.csproj|c:\\users\\spide\\source\\repos\\bethunter\\bethunter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{949FA582-CEBE-4679-8515-920DE8CB92F1}|BetHunter\\BetHunter.csproj|solutionrelative:bethunter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{046BB291-C821-4A26-8242-67EEBFFF8A5F}|BetHunterModel\\BetHunterModel.csproj|c:\\users\\spide\\source\\repos\\bethunter\\bethuntermodel\\confirmrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{046BB291-C821-4A26-8242-67EEBFFF8A5F}|BetHunterModel\\BetHunterModel.csproj|solutionrelative:bethuntermodel\\confirmrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B8363445-91CD-4A50-AE47-834D5DC54355}|BetHunterBusiness\\BetHunterBusiness.csproj|c:\\users\\spide\\source\\repos\\bethunter\\bethunterbusiness\\openaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8363445-91CD-4A50-AE47-834D5DC54355}|BetHunterBusiness\\BetHunterBusiness.csproj|solutionrelative:bethunterbusiness\\openaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{949FA582-CEBE-4679-8515-920DE8CB92F1}|BetHunter\\BetHunter.csproj|c:\\users\\spide\\source\\repos\\bethunter\\bethunter\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{949FA582-CEBE-4679-8515-920DE8CB92F1}|BetHunter\\BetHunter.csproj|solutionrelative:bethunter\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{949FA582-CEBE-4679-8515-920DE8CB92F1}|BetHunter\\BetHunter.csproj|c:\\users\\spide\\source\\repos\\bethunter\\bethunter\\controllers\\aicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{949FA582-CEBE-4679-8515-920DE8CB92F1}|BetHunter\\BetHunter.csproj|solutionrelative:bethunter\\controllers\\aicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046BB291-C821-4A26-8242-67EEBFFF8A5F}|BetHunterModel\\BetHunterModel.csproj|c:\\users\\spide\\source\\repos\\bethunter\\bethuntermodel\\confirmrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046BB291-C821-4A26-8242-67EEBFFF8A5F}|BetHunterModel\\BetHunterModel.csproj|solutionrelative:bethuntermodel\\confirmrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{949FA582-CEBE-4679-8515-920DE8CB92F1}|BetHunter\\BetHunter.csproj|c:\\users\\spide\\source\\repos\\bethunter\\bethunter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{949FA582-CEBE-4679-8515-920DE8CB92F1}|BetHunter\\BetHunter.csproj|solutionrelative:bethunter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046BB291-C821-4A26-8242-67EEBFFF8A5F}|BetHunterModel\\BetHunterModel.csproj|c:\\users\\spide\\source\\repos\\bethunter\\bethuntermodel\\airequesttext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046BB291-C821-4A26-8242-67EEBFFF8A5F}|BetHunterModel\\BetHunterModel.csproj|solutionrelative:bethuntermodel\\airequesttext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{949FA582-CEBE-4679-8515-920DE8CB92F1}|BetHunter\\BetHunter.csproj|c:\\users\\spide\\source\\repos\\bethunter\\bethunter\\controllers\\smscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{949FA582-CEBE-4679-8515-920DE8CB92F1}|BetHunter\\BetHunter.csproj|solutionrelative:bethunter\\controllers\\smscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8363445-91CD-4A50-AE47-834D5DC54355}|BetHunterBusiness\\BetHunterBusiness.csproj|c:\\users\\spide\\source\\repos\\bethunter\\bethunterbusiness\\bethunterbusiness.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B8363445-91CD-4A50-AE47-834D5DC54355}|BetHunterBusiness\\BetHunterBusiness.csproj|solutionrelative:bethunterbusiness\\bethunterbusiness.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B8363445-91CD-4A50-AE47-834D5DC54355}|BetHunterBusiness\\BetHunterBusiness.csproj|c:\\users\\spide\\source\\repos\\bethunter\\bethunterbusiness\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B8363445-91CD-4A50-AE47-834D5DC54355}|BetHunterBusiness\\BetHunterBusiness.csproj|solutionrelative:bethunterbusiness\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8363445-91CD-4A50-AE47-834D5DC54355}|BetHunterBusiness\\BetHunterBusiness.csproj|c:\\users\\spide\\source\\repos\\bethunter\\bethunterbusiness\\smsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8363445-91CD-4A50-AE47-834D5DC54355}|BetHunterBusiness\\BetHunterBusiness.csproj|solutionrelative:bethunterbusiness\\smsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE03AE1-8EA4-479F-B5AC-31654100A3B2}|BetHunterData\\BetHunterData.csproj|c:\\users\\spide\\source\\repos\\bethunter\\bethunterdata\\migrations\\20250921211333_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE03AE1-8EA4-479F-B5AC-31654100A3B2}|BetHunterData\\BetHunterData.csproj|solutionrelative:bethunterdata\\migrations\\20250921211333_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{046BB291-C821-4A26-8242-67EEBFFF8A5F}|BetHunterModel\\BetHunterModel.csproj|c:\\users\\spide\\source\\repos\\bethunter\\bethuntermodel\\smsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{046BB291-C821-4A26-8242-67EEBFFF8A5F}|BetHunterModel\\BetHunterModel.csproj|solutionrelative:bethuntermodel\\smsrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5CE03AE1-8EA4-479F-B5AC-31654100A3B2}|BetHunterData\\BetHunterData.csproj|c:\\users\\spide\\source\\repos\\bethunter\\bethunterdata\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -94,8 +110,64 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BetHunterBusiness",
+              "DocumentMoniker": "C:\\Users\\Spide\\source\\repos\\BetHunter\\BetHunterBusiness\\BetHunterBusiness.csproj",
+              "RelativeDocumentMoniker": "BetHunterBusiness\\BetHunterBusiness.csproj",
+              "ToolTip": "C:\\Users\\Spide\\source\\repos\\BetHunter\\BetHunterBusiness\\BetHunterBusiness.csproj",
+              "RelativeToolTip": "BetHunterBusiness\\BetHunterBusiness.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-20T10:03:16.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AIController.cs",
+              "DocumentMoniker": "C:\\Users\\Spide\\source\\repos\\BetHunter\\BetHunter\\Controllers\\AIController.cs",
+              "RelativeDocumentMoniker": "BetHunter\\Controllers\\AIController.cs",
+              "ToolTip": "C:\\Users\\Spide\\source\\repos\\BetHunter\\BetHunter\\Controllers\\AIController.cs",
+              "RelativeToolTip": "BetHunter\\Controllers\\AIController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T11:48:43.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OpenAIService.cs",
+              "DocumentMoniker": "C:\\Users\\Spide\\source\\repos\\BetHunter\\BetHunterBusiness\\OpenAIService.cs",
+              "RelativeDocumentMoniker": "BetHunterBusiness\\OpenAIService.cs",
+              "ToolTip": "C:\\Users\\Spide\\source\\repos\\BetHunter\\BetHunterBusiness\\OpenAIService.cs",
+              "RelativeToolTip": "BetHunterBusiness\\OpenAIService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T11:47:19.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AiRequestText.cs",
+              "DocumentMoniker": "C:\\Users\\Spide\\source\\repos\\BetHunter\\BetHunterModel\\AiRequestText.cs",
+              "RelativeDocumentMoniker": "BetHunterModel\\AiRequestText.cs",
+              "ToolTip": "C:\\Users\\Spide\\source\\repos\\BetHunter\\BetHunterModel\\AiRequestText.cs",
+              "RelativeToolTip": "BetHunterModel\\AiRequestText.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T11:46:13.073Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 4,
@@ -104,13 +176,14 @@
               "RelativeDocumentMoniker": "BetHunter\\Program.cs",
               "ToolTip": "C:\\Users\\Spide\\source\\repos\\BetHunter\\BetHunter\\Program.cs",
               "RelativeToolTip": "BetHunter\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-21T21:44:17.484Z"
+              "WhenOpened": "2025-09-21T21:44:17.484Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "ConfirmRequest.cs",
               "DocumentMoniker": "C:\\Users\\Spide\\source\\repos\\BetHunter\\BetHunterModel\\ConfirmRequest.cs",
               "RelativeDocumentMoniker": "BetHunterModel\\ConfirmRequest.cs",
@@ -118,11 +191,12 @@
               "RelativeToolTip": "BetHunterModel\\ConfirmRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-21T22:20:15.94Z"
+              "WhenOpened": "2025-09-21T22:20:15.94Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 11,
               "Title": "SmsRequest.cs",
               "DocumentMoniker": "C:\\Users\\Spide\\source\\repos\\BetHunter\\BetHunterModel\\SmsRequest.cs",
               "RelativeDocumentMoniker": "BetHunterModel\\SmsRequest.cs",
@@ -134,43 +208,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "SmsService.cs",
               "DocumentMoniker": "C:\\Users\\Spide\\source\\repos\\BetHunter\\BetHunterBusiness\\SmsService.cs",
               "RelativeDocumentMoniker": "BetHunterBusiness\\SmsService.cs",
               "ToolTip": "C:\\Users\\Spide\\source\\repos\\BetHunter\\BetHunterBusiness\\SmsService.cs",
               "RelativeToolTip": "BetHunterBusiness\\SmsService.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAkwBwAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-21T22:00:55.887Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "SmsController.cs",
               "DocumentMoniker": "C:\\Users\\Spide\\source\\repos\\BetHunter\\BetHunter\\Controllers\\SmsController.cs",
               "RelativeDocumentMoniker": "BetHunter\\Controllers\\SmsController.cs",
               "ToolTip": "C:\\Users\\Spide\\source\\repos\\BetHunter\\BetHunter\\Controllers\\SmsController.cs",
               "RelativeToolTip": "BetHunter\\Controllers\\SmsController.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAkwBsAAABBAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-21T21:59:51.03Z"
+              "WhenOpened": "2025-09-21T21:59:51.03Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Spide\\source\\repos\\BetHunter\\BetHunter\\appsettings.json",
               "RelativeDocumentMoniker": "BetHunter\\appsettings.json",
               "ToolTip": "C:\\Users\\Spide\\source\\repos\\BetHunter\\BetHunter\\appsettings.json",
               "RelativeToolTip": "BetHunter\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-21T21:26:06.574Z"
+              "WhenOpened": "2025-09-21T21:26:06.574Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "ApplicationDbContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\Spide\\source\\repos\\BetHunter\\BetHunterData\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "BetHunterData\\Migrations\\ApplicationDbContextModelSnapshot.cs",
@@ -182,32 +258,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20250921211333_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\Spide\\source\\repos\\BetHunter\\BetHunterData\\Migrations\\20250921211333_InitialCreate.cs",
-              "RelativeDocumentMoniker": "BetHunterData\\Migrations\\20250921211333_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\Spide\\source\\repos\\BetHunter\\BetHunterData\\Migrations\\20250921211333_InitialCreate.cs",
-              "RelativeToolTip": "BetHunterData\\Migrations\\20250921211333_InitialCreate.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAADwvxwAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-21T21:25:30.725Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "ApplicationDbContextFactory.cs",
-              "DocumentMoniker": "C:\\Users\\Spide\\source\\repos\\BetHunter\\BetHunterData\\ApplicationDbContextFactory.cs",
-              "RelativeDocumentMoniker": "BetHunterData\\ApplicationDbContextFactory.cs",
-              "ToolTip": "C:\\Users\\Spide\\source\\repos\\BetHunter\\BetHunterData\\ApplicationDbContextFactory.cs",
-              "RelativeToolTip": "BetHunterData\\ApplicationDbContextFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-21T21:00:02.653Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Spide\\source\\repos\\BetHunter\\BetHunterBusiness\\Class1.cs",
               "RelativeDocumentMoniker": "BetHunterBusiness\\Class1.cs",
@@ -219,7 +270,31 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250921211333_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Spide\\source\\repos\\BetHunter\\BetHunterData\\Migrations\\20250921211333_InitialCreate.cs",
+              "RelativeDocumentMoniker": "BetHunterData\\Migrations\\20250921211333_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Spide\\source\\repos\\BetHunter\\BetHunterData\\Migrations\\20250921211333_InitialCreate.cs",
+              "RelativeToolTip": "BetHunterData\\Migrations\\20250921211333_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T21:25:30.725Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "ApplicationDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Spide\\source\\repos\\BetHunter\\BetHunterData\\ApplicationDbContextFactory.cs",
+              "RelativeDocumentMoniker": "BetHunterData\\ApplicationDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\Spide\\source\\repos\\BetHunter\\BetHunterData\\ApplicationDbContextFactory.cs",
+              "RelativeToolTip": "BetHunterData\\ApplicationDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-21T21:00:02.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Spide\\source\\repos\\BetHunter\\BetHunterData\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "BetHunterData\\ApplicationDbContext.cs",
@@ -231,7 +306,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "UserProgressTopic.cs",
               "DocumentMoniker": "C:\\Users\\Spide\\source\\repos\\BetHunter\\BetHunterModel\\UserProgressTopic.cs",
               "RelativeDocumentMoniker": "BetHunterModel\\UserProgressTopic.cs",
@@ -243,7 +318,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "Topic.cs",
               "DocumentMoniker": "C:\\Users\\Spide\\source\\repos\\BetHunter\\BetHunterModel\\Topic.cs",
               "RelativeDocumentMoniker": "BetHunterModel\\Topic.cs",
@@ -255,7 +330,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Spide\\source\\repos\\BetHunter\\BetHunterModel\\Class1.cs",
               "RelativeDocumentMoniker": "BetHunterModel\\Class1.cs",
@@ -267,7 +342,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "UserAnswer.cs",
               "DocumentMoniker": "C:\\Users\\Spide\\source\\repos\\BetHunter\\BetHunterModel\\UserAnswer.cs",
               "RelativeDocumentMoniker": "BetHunterModel\\UserAnswer.cs",
@@ -279,7 +354,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "Question.cs",
               "DocumentMoniker": "C:\\Users\\Spide\\source\\repos\\BetHunter\\BetHunterModel\\Question.cs",
               "RelativeDocumentMoniker": "BetHunterModel\\Question.cs",
@@ -291,7 +366,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "Lesson.cs",
               "DocumentMoniker": "C:\\Users\\Spide\\source\\repos\\BetHunter\\BetHunterModel\\Lesson.cs",
               "RelativeDocumentMoniker": "BetHunterModel\\Lesson.cs",
@@ -303,7 +378,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "Alternative.cs",
               "DocumentMoniker": "C:\\Users\\Spide\\source\\repos\\BetHunter\\BetHunterModel\\Alternative.cs",
               "RelativeDocumentMoniker": "BetHunterModel\\Alternative.cs",
@@ -315,7 +390,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "Article.cs",
               "DocumentMoniker": "C:\\Users\\Spide\\source\\repos\\BetHunter\\BetHunterModel\\Article.cs",
               "RelativeDocumentMoniker": "BetHunterModel\\Article.cs",
@@ -327,7 +402,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Spide\\source\\repos\\BetHunter\\BetHunterModel\\User.cs",
               "RelativeDocumentMoniker": "BetHunterModel\\User.cs",
@@ -339,7 +414,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Spide\\source\\repos\\BetHunter\\BetHunterData\\Class1.cs",
               "RelativeDocumentMoniker": "BetHunterData\\Class1.cs",

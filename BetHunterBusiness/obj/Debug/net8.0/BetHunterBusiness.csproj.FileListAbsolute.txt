@@ -15,3 +15,4 @@ C:\Users\Spide\source\repos\BetHunter\BetHunterBusiness\obj\Debug\net8.0\BetHunt
 C:\Users\Spide\source\repos\BetHunter\BetHunterBusiness\bin\Debug\net8.0\BetHunterModel.dll
 C:\Users\Spide\source\repos\BetHunter\BetHunterBusiness\bin\Debug\net8.0\BetHunterModel.pdb
 C:\Users\Spide\source\repos\BetHunter\BetHunterBusiness\obj\Debug\net8.0\BetHunte.29B3393D.Up2Date
+C:\Users\Spide\source\repos\BetHunter\BetHunterBusiness\obj\Debug\net8.0\BetHunterBusiness.sourcelink.json

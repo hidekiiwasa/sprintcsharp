@@ -15,3 +15,4 @@ C:\Users\Spide\source\repos\BetHunter\BetHunterData\obj\Debug\net8.0\BetHunterDa
 C:\Users\Spide\source\repos\BetHunter\BetHunterData\obj\Debug\net8.0\ref\BetHunterData.dll
 C:\Users\Spide\source\repos\BetHunter\BetHunterData\bin\Debug\net8.0\BetHunterData.runtimeconfig.json
 C:\Users\Spide\source\repos\BetHunter\BetHunterData\obj\Debug\net8.0\BetHunterData.genruntimeconfig.cache
+C:\Users\Spide\source\repos\BetHunter\BetHunterData\obj\Debug\net8.0\BetHunterData.sourcelink.json

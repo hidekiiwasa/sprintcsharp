@@ -162,3 +162,4 @@ C:\Users\Spide\source\repos\BetHunter\BetHunter\bin\Debug\net8.0\BetHunterBusine
 C:\Users\Spide\source\repos\BetHunter\BetHunter\bin\Debug\net8.0\BetHunterModel.dll
 C:\Users\Spide\source\repos\BetHunter\BetHunter\bin\Debug\net8.0\BetHunterBusiness.pdb
 C:\Users\Spide\source\repos\BetHunter\BetHunter\bin\Debug\net8.0\BetHunterModel.pdb
+C:\Users\Spide\source\repos\BetHunter\BetHunter\obj\Debug\net8.0\BetHunter.sourcelink.json

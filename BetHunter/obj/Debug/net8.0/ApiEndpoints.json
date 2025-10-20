@@ -1,5 +1,21 @@
 [
   {
+    "ContainingType": "AIController",
+    "Method": "AskAI",
+    "RelativePath": "api/AI/ask",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "aiRequestText",
+        "Type": "BetHunterModel.AiRequestText",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "SmsController",
     "Method": "ConfirmSms",
     "RelativePath": "api/Sms/confirm",

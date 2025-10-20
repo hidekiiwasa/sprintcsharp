@@ -1,3 +1,5 @@
+using BetHunterBusiness;
+
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddCors(options =>
@@ -14,6 +16,7 @@ builder.Services.AddSingleton<SmsService>();
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+builder.Services.AddSingleton<OpenAIService>();
 
 var app = builder.Build();
 
