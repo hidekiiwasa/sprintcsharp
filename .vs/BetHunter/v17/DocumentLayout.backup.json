@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Spide\\source\\repos\\BetHunter\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B8363445-91CD-4A50-AE47-834D5DC54355}|BetHunterBusiness\\BetHunterBusiness.csproj|c:\\users\\spide\\source\\repos\\bethunter\\bethunterbusiness\\openaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B8363445-91CD-4A50-AE47-834D5DC54355}|BetHunterBusiness\\BetHunterBusiness.csproj|solutionrelative:bethunterbusiness\\openaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{949FA582-CEBE-4679-8515-920DE8CB92F1}|BetHunter\\BetHunter.csproj|c:\\users\\spide\\source\\repos\\bethunter\\bethunter\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{949FA582-CEBE-4679-8515-920DE8CB92F1}|BetHunter\\BetHunter.csproj|solutionrelative:bethunter\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8363445-91CD-4A50-AE47-834D5DC54355}|BetHunterBusiness\\BetHunterBusiness.csproj|c:\\users\\spide\\source\\repos\\bethunter\\bethunterbusiness\\openaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8363445-91CD-4A50-AE47-834D5DC54355}|BetHunterBusiness\\BetHunterBusiness.csproj|solutionrelative:bethunterbusiness\\openaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{949FA582-CEBE-4679-8515-920DE8CB92F1}|BetHunter\\BetHunter.csproj|c:\\users\\spide\\source\\repos\\bethunter\\bethunter\\controllers\\aicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -110,24 +110,27 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "BetHunterBusiness",
+              "Title": "BetHunterBusiness.csproj",
               "DocumentMoniker": "C:\\Users\\Spide\\source\\repos\\BetHunter\\BetHunterBusiness\\BetHunterBusiness.csproj",
               "RelativeDocumentMoniker": "BetHunterBusiness\\BetHunterBusiness.csproj",
               "ToolTip": "C:\\Users\\Spide\\source\\repos\\BetHunter\\BetHunterBusiness\\BetHunterBusiness.csproj",
               "RelativeToolTip": "BetHunterBusiness\\BetHunterBusiness.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-20T10:03:16.63Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-20T10:03:16.63Z"
             },
             {
               "$type": "Document",
@@ -139,18 +142,17 @@
               "RelativeToolTip": "BetHunter\\Controllers\\AIController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T11:48:43.875Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-18T11:48:43.875Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "OpenAIService.cs",
               "DocumentMoniker": "C:\\Users\\Spide\\source\\repos\\BetHunter\\BetHunterBusiness\\OpenAIService.cs",
               "RelativeDocumentMoniker": "BetHunterBusiness\\OpenAIService.cs",
               "ToolTip": "C:\\Users\\Spide\\source\\repos\\BetHunter\\BetHunterBusiness\\OpenAIService.cs",
               "RelativeToolTip": "BetHunterBusiness\\OpenAIService.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAQwCYAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwDEAAABrAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-18T11:47:19.045Z",
               "EditorCaption": ""
@@ -165,8 +167,7 @@
               "RelativeToolTip": "BetHunterModel\\AiRequestText.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T11:46:13.073Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-18T11:46:13.073Z"
             },
             {
               "$type": "Document",
@@ -178,8 +179,7 @@
               "RelativeToolTip": "BetHunter\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-21T21:44:17.484Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-21T21:44:17.484Z"
             },
             {
               "$type": "Document",
@@ -191,8 +191,7 @@
               "RelativeToolTip": "BetHunterModel\\ConfirmRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-21T22:20:15.94Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-21T22:20:15.94Z"
             },
             {
               "$type": "Document",
@@ -228,18 +227,17 @@
               "RelativeToolTip": "BetHunter\\Controllers\\SmsController.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAIwB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-21T21:59:51.03Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-21T21:59:51.03Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Spide\\source\\repos\\BetHunter\\BetHunter\\appsettings.json",
               "RelativeDocumentMoniker": "BetHunter\\appsettings.json",
               "ToolTip": "C:\\Users\\Spide\\source\\repos\\BetHunter\\BetHunter\\appsettings.json",
               "RelativeToolTip": "BetHunter\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-09-21T21:26:06.574Z",
               "EditorCaption": ""

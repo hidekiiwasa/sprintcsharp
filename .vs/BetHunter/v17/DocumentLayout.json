@@ -110,15 +110,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
@@ -154,8 +150,7 @@
               "RelativeToolTip": "BetHunterBusiness\\OpenAIService.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAAQwDEAAABrAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-18T11:47:19.045Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-18T11:47:19.045Z"
             },
             {
               "$type": "Document",
@@ -237,7 +232,7 @@
               "RelativeDocumentMoniker": "BetHunter\\appsettings.json",
               "ToolTip": "C:\\Users\\Spide\\source\\repos\\BetHunter\\BetHunter\\appsettings.json",
               "RelativeToolTip": "BetHunter\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-09-21T21:26:06.574Z",
               "EditorCaption": ""
